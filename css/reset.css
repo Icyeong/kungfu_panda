@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gentium Basic', serif;
+}
+
+img{
+    width: 100%;
+}
+
+ul,li{
+    list-style: none;
+    text-decoration: none;
+}
+
