@@ -1,9 +1,10 @@
 # KungFu Panda 웹사이트
 
 ## 배포 링크
-
+https://icyeong.github.io/kungfu_panda/
 
 ## 전체 영상
+![20230130205715-7b5d6c4a70 gif-2-mp4 com](https://user-images.githubusercontent.com/98375183/215556723-f10e5ba6-1fa9-466e-a21e-317b4ad7c947.gif)
 
 
 ## 실행배경
